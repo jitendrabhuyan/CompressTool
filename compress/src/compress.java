@@ -10,6 +10,8 @@ public class compress {
 	
 	
 	public static void main(String[] args) {
+		
+		System.out.println("compression algorithm starts");
 	
 		String str = "aaaabbbccdddd";
 		
