@@ -13,6 +13,8 @@ public class compress {
 		
 		
 		System.out.println("compression algorithm starts");
+		
+		System.out.println("hello");
 	
 		String str = "aaaabbbccdddd";
 		
